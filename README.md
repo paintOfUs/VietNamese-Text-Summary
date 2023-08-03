@@ -2,18 +2,18 @@
 Bài tập cuối kỳ đề tài tóm tắt văn bản bằng tiếng việt
 
 Tiếp cận bài toán tóm tắt văn bản theo 2 cách "Trích xuất" và "Trừu tượng"
-<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/2.png>
+<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/2.png">
 
 Bằng việc sử dụng các kĩ thuật như tokenizer để chia nhỏ các từ cũng như nhúng từ (embedding)
-<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/3.png>
+<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/3.png">
 
-<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/4.png>
+<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/4.png">
 
 Phương pháp trừu tượng:
-<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/5.png>
+<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/5.png">
 
 Thành quả:
-<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/1.png>
+<img src="https://github.com/paintOfUs/MachineLearning_Hus_EEI_k65/blob/main/img_for_readme/1.png">
 
 lời kết: đây là kết quả của việc tìm hiểu làm bài cuối khóa tuy nhiên do chưa được học về xử lý ngôn ngữ tự nhiên cũng như chỉ mới bắt đầu làm việc với ML nên còn nhiều thiếu sót
 
