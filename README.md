@@ -17,24 +17,33 @@ Thành quả:
 
 lời kết: đây là kết quả của việc tìm hiểu làm bài cuối khóa tuy nhiên do chưa được học về xử lý ngôn ngữ tự nhiên cũng như chỉ mới bắt đầu làm việc với ML nên còn nhiều thiếu sót
 
-Tài liệu tham khảo
+Tài liệu tham khảo:
+
 [1]. Comprehensive Guide to Text Summarization using Deep Learning in
 Python(analyticsvidhya.com)
+
 [2].https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-mac
 hine-learning
+
 [3].https://viblo.asia/p/xay-dung-chuong-trinh-tom-tat-van-ban-tieng-viet-don-gi
 an-voi-machine-learning
+
 [4].https://hoctructuyen123.net/tom-tat-van-ban-trong-hoc-may/?fbclid=IwAR2
 g61kb-19-8hbxkrCwt9KEI7hDBsYQi2mNX3orbsVGfuzDqMl5h4a_f50
+
 [5].Word2vec:https://machinelearningcoban.com/tabml_book/ch_embedding/wo
 rd2vec.html
+
 [6]. LSTM:https://websitehcm.com/long-short-term-memory-lstm-la-gi/
+
 [7].Autoencoder:https://bizflycloud.vn/tin-tuc/autoencoder-la-gi-202205261651
 57229.htm
+
 [8] N.-T. Tran, M.-Q. Nghiem, N. T. H. Nguyen, N. L.-T. Nguyen, N. Van Chi,
 and D. Dinh, “ViMs: a high-quality Vietnamese dataset for abstractive
 multi-document summarization.” Language Resources and Evaluation, vol. 54,
 no. 4, pp. 893-920, 2020, doi: 10.1007/s10579-020-09495-4:
 https://github.com/CLC-HCMUS/ViMs-Dataset?fbclid=IwAR1gLec6907ZXKal
 U8nteQ4xsUDfIabxx2WL2RQWEIVHEHhUsaeyAktWUu4
+
 [9] How to Make a Text Summarizer: https://youtu.be/ogrJaOIuBx4?t=325
