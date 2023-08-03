@@ -1,4 +1,4 @@
-# MachineLearning_Hus_EEI_k65
+# MachineLearning_Hus_EEI_k65 ( làm nhóm )
 Bài tập cuối kỳ đề tài tóm tắt văn bản bằng tiếng việt
 
 Tiếp cận bài toán tóm tắt văn bản theo 2 cách "Trích xuất" và "Trừu tượng"
